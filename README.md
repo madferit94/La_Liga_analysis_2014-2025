@@ -25,3 +25,12 @@ Planned extensions: defensive metrics (GA/xGA), Points Per Game (PPG) trends, an
 > Acknowledgement: Original data © Understat. This project is not affiliated with or endorsed by Understat.
 
 ---
+
+## 📊 Recent Update (2025-08-16)
+
+- Added new Jupyter Notebook: `notebooks/la_liga_analysis_v01.ipynb`
+- Included **Attack Efficiency (공격 효율성)** metric:
+  - Formula: `GF per match - xGF per match`
+  - Season total xGF = sum of all match-level xG
+  - Positive value → efficient finishing, Negative → inefficient
+- Visualization of Big 3 (Real Madrid, Barcelona, Atletico Madrid) attack efficiency trend by season
