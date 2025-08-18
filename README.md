@@ -34,3 +34,6 @@ Planned extensions: defensive metrics (GA/xGA), Points Per Game (PPG) trends, an
   - Season total xGF = sum of all match-level xG
   - Positive value → efficient finishing, Negative → inefficient
 - Visualization of Big 3 (Real Madrid, Barcelona, Atletico Madrid) attack efficiency trend by season
+
+## Updates((2025-08-18)
+- Added a new notebook in the `notebooks/` folder that includes defensive metrics analysis.
